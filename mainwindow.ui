@@ -17,10 +17,10 @@
    <widget class="QWidget" name="verticalLayoutWidget">
     <property name="geometry">
      <rect>
-      <x>50</x>
+      <x>-240</x>
       <y>30</y>
-      <width>531</width>
-      <height>80</height>
+      <width>1041</width>
+      <height>461</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
@@ -44,20 +44,10 @@
        </property>
       </widget>
      </item>
+     <item>
+      <widget class="QTextEdit" name="textEdit"/>
+     </item>
     </layout>
-   </widget>
-   <widget class="QPushButton" name="pushButton">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>130</y>
-      <width>351</width>
-      <height>151</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>PushButton</string>
-    </property>
    </widget>
   </widget>
  </widget>
